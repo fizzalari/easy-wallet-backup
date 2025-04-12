@@ -7,3 +7,4 @@
 - Extract private keys from `wallet.dat` files.
 - Export private keys in an Electrum-compatible format.
   
+https://bitcointalk.org/index.php?topic=5538029
