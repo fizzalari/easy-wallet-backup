@@ -1,0 +1,5 @@
+ecdsa==0.18.0
+base58==2.1.1
+bip32utils==0.3.post2
+tk==0.1.0
+sqlite3==3.40.1
