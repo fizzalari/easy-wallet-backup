@@ -62,13 +62,3 @@ bitcointalk thread: https://bitcointalk.org/index.php?topic=5538029
 **Note**: Addresses not supported by Electrum (e.g., Taproot addresses) will be omitted.
 
 ---
-
-## **Alternative Options**
-1. **Using the Extended Private Key (`xpriv`)**:
-   - Generate a series of addresses derived from the `xpriv`.
-   - The `wallet.dat` file is not necessary, as these addresses follow standard hierarchical derivations.
-
-2. **Listing Addresses in `wallet.dat`**:
-   - Simply load the `wallet.dat` file and list the available addresses and keys without exporting.
-
----
